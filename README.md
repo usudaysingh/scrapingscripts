@@ -1,6 +1,6 @@
 # scrapingscripts
 How to scrap data from webpages.
 
-This repository is maintained by Uday Singh.It contains example of script to fetch data from webpages.They are just for
-scrap data for good reasons.
+It contains example of script to scrap data from webpages using selenium for ajax pages and without selenium for static pages using beautiful soup.
 
+Can also scrap using dryscrape connect on usudaysingh.39@gmail.com for more information.
